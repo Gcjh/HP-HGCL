@@ -1,5 +1,5 @@
 # HP-HGCL-Master
-This project involves the code and supplementary materials of paper "Improving Heterogeneous Contrastive Learning Robustness via Self-Supervised Hierarchical Protection".
+This project involves the code and supplementary materials of paper "Improving Heterogeneous Graph Contrastive Learning Robustness via Self-Supervised Hierarchical Protection".
 
 
 
